@@ -1,2 +1,3 @@
 # todo-react
-Created with CodeSandbox
+- reactで作成したTodoアプリ
+- react 17.2で動作確認
